@@ -1,13 +1,14 @@
-<h2 align="left">Hi 👋! My name is Rishabh Raj and I'm a chill Data Science student at IIT Mandi.</h2>
+<h2 align="left">Hi! My name is Rishabh Raj and I'm a Data Science student at IIT Mandi.</h2>
 
 ---
 
 ###  About Me
 
--  Exploring data science, machine learning, and artificial intelligence .
+-  I love data science and cool stuff related to new tech.
 -  Love building practical projects and solving real-world problems.
--  Always learning new tech and improving my skills.
+-  Always learning new tech and improving my skills, or just sleeping for hours.
 -  Runs on caffeine and curiosity.
+-  I like MaThEmAtIcS, do you??
 
 ---
 
@@ -47,6 +48,6 @@
 
 ---
 
-> *Thanks for dropping by — see you in the next commit! 🚀*
+> *Thanks for dropping by, hope i see you in the next commit! *
 
 
